@@ -8,7 +8,7 @@
 I'm David from Turkey. I'm 17 and student in Turkey. I like playing basketball,watch animes-films-series, listening music and learning new languages.Now i am learning Javascript,C# and css.
 
 ## My github informations
-![Jæger's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=algolia)
+![Jæger's GitHub stats](https://github-readme-stats.vercel.app/api?username=JagerTR&show_icons=true&theme=algolia)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JagerTR&langs_count=8&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 

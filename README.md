@@ -1,6 +1,6 @@
 
 # Jæger
-<img src="https://cdn.discordapp.com/attachments/790928285517348865/844650715481636913/tenor_40.gif" width="846" />
+<img src="https://cdn.discordapp.com/attachments/790928285517348865/844650715481636913/tenor_40.gif" width="1024" />
 
 
 

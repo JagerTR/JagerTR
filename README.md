@@ -10,6 +10,8 @@ I'm David from Turkey,I'm 17 and student in Turkey. I like playing basketbol,wat
 
 [![Jager's GitHub stats](https://github-readme-stats.vercel.app/api?username=JagerTR)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JagerTR)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JagerTR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jaeger.07/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/784850380332597280)  
 
-![Jæger's GitHub stats](https://github-readme-stats.vercel.app/api?username=JagerTR&hide=contribs,prs)

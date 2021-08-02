@@ -7,6 +7,8 @@
 ## Hakkımda
 I'm David from Turkey. I'm 17 and student in Turkey. I like playing basketball,watch animes-films-series, listening music and learning new languages.Now i am learning Javascript,C# and css.
 
+![](https://komarev.com/ghpvc/?username=JagerTR&color=blueviolet)
+
 ## My github informations
 ![Jæger's GitHub stats](https://github-readme-stats.vercel.app/api?username=JagerTR&show_icons=true&theme=algolia)
 

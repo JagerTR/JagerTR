@@ -15,7 +15,6 @@ I'm David from Turkey. I'm 17 and student in Turkey. I like playing basketball,w
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JagerTR&langs_count=8&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Communication
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JagerTR)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jaeger.07/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/784850380332597280)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JagerTR)   [<img 
+src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jaeger.07/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/784850380332597280)  
 

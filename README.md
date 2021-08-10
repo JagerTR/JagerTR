@@ -2,7 +2,7 @@
 # Jæger
 <img src="https://cdn.discordapp.com/attachments/790928285517348865/844650715481636913/tenor_40.gif" width="1024" />
 
-
+<img src= "https://api.lanyard.rest/v1/users/:187583977408823296" />
 
 ## About Me
 I'm David from Turkey. I'm 17 and student in Turkey. I like playing basketball,watch animes-films-series, listening music and learning new languages.Now i am learning Javascript,C# and css.

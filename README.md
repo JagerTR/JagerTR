@@ -2,10 +2,9 @@
 # Jæger
 <img src="https://cdn.discordapp.com/attachments/790928285517348865/844650715481636913/tenor_40.gif" width="1024" />
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/187583977408823296)](https://discord.com/users/187583977408823296)
 
 ## About Me
-I'm David from Turkey. I'm 17 and student in Turkey. I like playing basketball,watch animes-films-series, listening music and learning new languages.Now i am learning Javascript,C# and css.
+I'm David from Turkey. I'm 17 and student in Turkey. I like playing basketball,watch animes-films-series, listening music and learning new languages.Now i am learning Javascript.
 
 ![](https://komarev.com/ghpvc/?username=JagerTR&color=blueviolet)
 
@@ -16,5 +15,5 @@ I'm David from Turkey. I'm 17 and student in Turkey. I like playing basketball,w
 
 ## Communication
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JagerTR)   [<img 
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jaeger.07/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/784850380332597280)  
+src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jaeger.07/)   
 
